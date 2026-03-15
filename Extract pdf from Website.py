@@ -82,21 +82,11 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
 # https://trends.builtwith.com/websitelist/Responsive-Tables
 
 
-# In[5]:
+# In[3]: extract_url_pdf(input_url="https://www.icai.org/post/sm-final-p5-may-aug-2025")
 
 
-extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
+# In[4]: https://www.icai.org/post/sm-final-p5-may-aug-2025
 
-
-# In[6]:
-
-
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
-
-# https://cbic-gst.gov.in/central-tax-notifications.html
-
-
-# In[ ]:
 
 
 
