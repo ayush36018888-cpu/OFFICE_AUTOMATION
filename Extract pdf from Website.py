@@ -91,9 +91,9 @@ extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
+extract_url_pdf(input_url="https://www.icai.org/post/sm-final-p5-may-aug-2025")
 
-# https://cbic-gst.gov.in/central-tax-notifications.html
+# https://www.icai.org/post/sm-final-p5-may-aug-2025
 
 
 # In[ ]:
